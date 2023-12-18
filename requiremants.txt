@@ -8,3 +8,6 @@ pydantic==2.5.2
 celery==5.3.6
 flower==2.0.1
 redis==4.4.2
+
+
+RamPassAlphaWord1209
